@@ -57,9 +57,29 @@ We trained classification models to predict attendance (`0` = No-show, `1` = Att
 
 ---
 
-## 🚀 Getting Started
+## 👨‍💻 About Me
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+**Martins F. Balogun**
+
+Data Analyst | Business Intelligence Developer | Statistician
+
+I enjoy transforming raw data into meaningful insights through interactive dashboards, business intelligence solutions, and data storytelling.
+
+
+### Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/mfbalogun
+- GitHub: https://github.com/bmartech
+- Email: martinsfriday.mf@gmail.com
+
+
+## 🙏 Acknowledgements
+
+This project was developed for learning and portfolio purposes using the IBM HR Analytics Employee Attrition dataset.
+
+Special thanks to the Power BI community for providing inspiration and best practices for dashboard design and data visualization.
+
+
+## 📄 License
+
+This project is licensed under the MIT License.
