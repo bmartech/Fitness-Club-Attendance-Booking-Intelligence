@@ -1,7 +1,7 @@
 # Fitness Club Attendance & Booking Intelligence
 
 ### Project Description
-This project delivers a comprehensive data analysis and predictive modeling pipeline designed to evaluate member engagement, class booking behaviors, and attendance patterns at a fitness facility. By examining demographic features, membership tenure, and operational schedules—such as class categories, booking lead times, days of the week, and AM/PM time slots—the analysis uncovers key drivers behind class no-shows. Additionally, it implements classification models to predict whether a member will attend a scheduled session, providing actionable intelligence to optimize facility resource allocation and member retention strategies.
+This project delivers a comprehensive data analysis and predictive modeling pipeline designed to evaluate member engagement, class booking behaviors, and attendance patterns at a fitness facility. By examining demographic features, membership tenure, and operational schedules, such as class categories, booking lead times, days of the week, and AM/PM time slots. The analysis uncovers key drivers behind class no-shows. Additionally, it implements classification models to predict whether a member will attend a scheduled session, providing actionable intelligence to optimize facility resource allocation and member retention strategies.
 
 ---
 
